@@ -236,7 +236,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"{<lobby>\/generic-assemblies.json#start_1k-dezentral-remote-clubhaus-friends}\n"
                 }],
          "type":"tilelayer",
          "visible":true,
