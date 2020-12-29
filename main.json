@@ -194,7 +194,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stream.studio-link.de\/https:\/\/stream.studio-link.de\/norave"
+                 "value":"https:\/\/stream.studio-link.de\/norave"
                 }],
          "type":"tilelayer",
          "visible":true,
